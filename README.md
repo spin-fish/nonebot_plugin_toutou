@@ -8,8 +8,8 @@ nb2 beta1插件“透透复读机”
 ## HOW TO USE 如何使用？  
 ### Step 1 安装插件
 1、本插件仅支持nonebot2 Beta.1版本！！！  
-2、下载toutou_repeat.py（插件本体）  
-3、下载public（一个所有共用的库，可以放在bot.py同目录下，也可以把里面东西单独取出来）  
+2、安装bot需要的相关环境
+3、下载toutou_repeat.py（插件本体）  
 4、下载toutou文件夹（插件自己使用的数据）
 ### Step 2 配置插件  
 1、这是有关路径之类的的一些自定义的配置，根据情况修改优化    
